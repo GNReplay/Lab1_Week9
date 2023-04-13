@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562944185119",
+    "project_id": "lab1-week9",
+    "storage_bucket": "lab1-week9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562944185119:android:af7266b7fb87714a22162a",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.lab1_week9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562944185119-8oa6acapa1cvokkl41utp8io2f4u3gi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8GpiZs2jLrnukiDqZYkhrjEBqNtsrn9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562944185119-8oa6acapa1cvokkl41utp8io2f4u3gi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
